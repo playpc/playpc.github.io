@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "성수"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "깃저장소를 활용한 자기주도학습"
   location         : "Seoul, Republic of Korea"
   email            :
   links:
